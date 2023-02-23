@@ -171,5 +171,8 @@ int main()
 			}  //Fim da selecão
 		}
 	}
+	
+	else
+		printf("Senha incorreta!");
 
 }
